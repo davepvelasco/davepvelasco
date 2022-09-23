@@ -8,5 +8,7 @@
   - Food 🍔
   - Movies 🎥
   - Anime 🗾 
-- 🌱 I’m currently learning [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- 🌱 I’m currently learning
+  - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+  - GitHub [Docs](https://docs.github.com/en) and [Skills](https://skills.github.com/)
 - 😄 Pronouns: He/Him
