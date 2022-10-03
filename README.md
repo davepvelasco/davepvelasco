@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- 👨 I’m **Dave Velasco**
+### Hi there, I’m Dave Velasco 👋
 - 👀 I’m interested in
   - Computers 💻
   - Music 🎵
@@ -11,4 +9,5 @@
 - 🌱 I’m currently learning
   - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   - GitHub [Docs](https://docs.github.com/en) and [Skills](https://skills.github.com/)
+  - Various skills at [Microsoft Learn](https://learn.microsoft.com/)
 - 😄 Pronouns: He/Him
