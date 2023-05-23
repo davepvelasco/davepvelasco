@@ -12,6 +12,6 @@
   - GitHub [Docs](https://docs.github.com/en) and [Skills](https://skills.github.com/)
   - Various skills at [Microsoft Learn](https://learn.microsoft.com/)
 - 🔭 I’m currently working on
-  - Problem Set 8 of CS50x
-  - Lab 8 of CS50x
+  - Problem Set 9 of CS50x
+  - Lab 9 of CS50x
 - 😄 Pronouns: He/Him
